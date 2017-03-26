@@ -1,2 +1,6 @@
 1. git init, git add <file>, git commit -m "message"
 2. git status, git diff <file> 
+3. "HEAD" is pointing to the current version,
+	git reset --hard commit_id: set the current version
+	git log : view the commit history and id
+	git reflog: view the command history and related message
