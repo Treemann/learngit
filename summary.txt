@@ -1,2 +1,2 @@
 1. git init, git add <file>, git commit -m "message"
-2. 
+2. git status, git diff <file> 
