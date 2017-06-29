@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git track changes of files.
 Git remote test.
 Creating a new branch is quick and simple.
+add merge
